@@ -1,10 +1,8 @@
 # HTML & CSS3 Course
 
-If you are not familiar with linters, read [root level README](../README.md).
 
 ## Set-up GitHub Actions
 
-Please do the following *steps in this order*:
 
 1. In the first commit of your feature branch create a `.github/workflows` folder and add a copy of [`.github/workflows/linters.yml`](.github/workflows/linters.yml) to that folder.
    - *Remember* to use the file linked above
