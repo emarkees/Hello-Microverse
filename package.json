@@ -1,0 +1,23 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "Hello Microverse is a project build to write my first Hello world using html with my favourite color ⭐️, ensuring no linter errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emarkees/Hello-Microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emarkees/Hello-Microverse/issues"
+  },
+  "homepage": "https://github.com/emarkees/Hello-Microverse#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
